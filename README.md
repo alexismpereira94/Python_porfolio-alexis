@@ -1,7 +1,9 @@
 # Python Portfolio – Alexis Pereira
 
 Estudiante de Ingeniería Informática – UNDAV  
-Curso Python – Santander Open Academy (finalizado diciembre 2025)
+Curso Python – Santander Open Academy 2025  
+→ Módulo 1 100 % aprobado + examen pasado  
+→ Módulo 2 en curso (diciembre 2025) – ya manejo listas, funciones, diccionarios y conjuntos
 
 ### Lo que ya domino al 100 %
 - Variables, condicionales, bucles (for / while)
