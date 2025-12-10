@@ -46,7 +46,7 @@
 - Primer empleo remoto como **Python Junior** – full-time disponible YA
 
 ¡Buscando activamente mi primera oportunidad remota!  
-LinkedIn: linkedin.com/in/alexismpereira94 (o el que uses)  
+
 Disponible full-time desde enero 2026
 
 ¡Gracias por visitar mi perfil!  
